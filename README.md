@@ -7,7 +7,7 @@ To setup evnvironemnt follow the instruction in the https://github.com/openfheor
  2)Chagne the file path according to your system path </br>
  3) To experminet the apprxoimate adders uncomment corresponing lines in "def approaddBits(r, a, b, carry):" and change lines in adder "def addNumbers(ctA, ctB, nBits):" function "if condtion to i>4"</br>
 
- **Nufhe Installtion (GPU requried)**</br>
+ **NuFHE Installtion (GPU requried)**</br>
  To setup evnvironemnt fllow the instruction in  https://nufhe.readthedocs.io/en/latest/</br>
 1)Each fie includes approximation and with out approxiation.</br>
  2)Chagne the file path according to your system path</br>
